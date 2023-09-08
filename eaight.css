@@ -1,0 +1,150 @@
+.parent{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(215, 230, 230);
+    border: solid;
+    border-style: 2px;
+    border-color: rgb(215, 230, 230);;
+    margin-left: 500px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    
+}
+.box1{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    box-sizing: border-box;
+}
+.box2{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 200px;
+    box-sizing: border-box;
+}
+.box3{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 400px;
+    box-sizing: border-box;
+}
+.box4{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 99px;
+    border-style: solid; 
+    border-color: black;
+    top: 400px;
+    left: 400px;
+    box-sizing: border-box;
+}
+.box5{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 99px;
+    border-style: solid; 
+    border-color: black;
+    top: 200px;
+    left: 400px;
+    box-sizing: border-box;
+}
+.box6{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 99px;
+    border-style: solid; 
+    border-color: black;
+    left: 400px;
+    box-sizing: border-box;
+}
+.box7{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 200px;
+    left: 200px;
+    box-sizing: border-box;
+}
+.box8{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    left: 200px;
+    box-sizing: border-box;
+}
+.box9{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 400px;
+    left: 200px;
+    box-sizing: border-box;
+}
+.box10{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 300px;
+    left: 300px;
+    box-sizing: border-box;
+}
+.box11{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 100px;
+    left: 300px;
+    box-sizing: border-box;
+}
+.box12{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 100px;
+    left: 100px;
+    box-sizing: border-box;
+}
+.box13{
+    background-color: black;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-style: solid; 
+    border-color: black;
+    top: 300px;
+    left: 100px;
+    box-sizing: border-box;
+}
