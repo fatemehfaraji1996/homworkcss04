@@ -1,0 +1,52 @@
+.parent{
+    height: 500px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(191, 160, 160);
+background-color: rgb(227, 217, 217);
+    position: relative;
+}
+.pic{
+    border-radius: 30px;
+    width: 360px;
+    position: absolute;
+    top: 20px;
+    bottom: ;
+    left: 15px;
+}
+.h1{
+    padding-left: 19px;
+    position: absolute;
+    top: 250px;
+}
+.para{
+    padding-left: 19px;
+    position: absolute;
+    top: 300px;
+}
+.price{
+    padding-left: 19px;
+    font-size: 20px;
+    position: absolute;
+    top: 360px;
+    color: orange;
+}
+.botton{
+    padding-left: 19px;
+    position: absolute;
+    top: 430px;
+    background-color: orange;
+    margin-left: 20px;
+    border-radius: 10px;
+    border-color: orange;
+
+}
+.parboton{
+    display: inline-block;
+    text-align: center;
+    color: aliceblue;
+    margin-right: 5px;
+
+}
