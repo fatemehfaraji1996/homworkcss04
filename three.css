@@ -1,0 +1,29 @@
+.back{
+    
+    background-color: rgb(121, 177, 177);
+    border-style: solid;
+    border-width: 0px;
+    position: sticky;
+    height:100vw;
+    width: 100vw;
+    margin-top: 0px;
+    margin-left: 0px;
+    box-sizing: border-box;
+    top: 0;
+
+}
+.para{
+    
+    background-color: aqua;
+    padding: 20px;
+    position: sticky;
+    border-color: aquamarine;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 100vw;
+    top: 0;
+}
+.para2{
+    
+
+}
