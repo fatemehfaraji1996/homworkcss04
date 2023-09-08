@@ -1,0 +1,11 @@
+.box{
+    position: fixed;
+    background-color: rgb(65, 65, 234);
+    top: 400px;
+    left: 700px;
+    
+}
+.para{
+    padding-left: 10px;
+    padding-right: 10px;
+}
