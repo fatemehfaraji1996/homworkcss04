@@ -1,0 +1,21 @@
+.blue{
+    background-color:rgb(3, 235, 235);
+    height: 100px;
+    width: 200px;
+    border-color: rgb(3, 235, 235);
+    border-width: 5px;
+    border-style: solid; 
+    position: absolute;
+
+}
+.oreng{
+    background-color:rgb(235, 96, 3);
+    height: 100px;
+    width: 200px;
+    border-color: rgb(243, 84, 10);
+    border-width: 5px;
+    border-style: solid; 
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
